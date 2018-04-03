@@ -1,0 +1,5 @@
+apiVersion: tryapi.nahid.try/v1alpha1
+kind: Eye
+metadata:
+  name: eye-example
+spec:
