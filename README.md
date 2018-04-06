@@ -79,11 +79,11 @@ kubectl create -f artifacts/example/apiservice.yaml
 
 ## Test that your setup has worked
 
-You should now be able to create the resource type ```Playerr``` which is the resource type registered by the sample apiserver.
+You should now be able to create the resource type ```Player``` which is the resource type registered by the sample apiserver.
 
 ```
 kubectl create -f artifacts/players/01-player.yaml
-# outputs flunder "player-01r" created
+player "player-01" created
 ```
 
 You can then get this resource by running:
