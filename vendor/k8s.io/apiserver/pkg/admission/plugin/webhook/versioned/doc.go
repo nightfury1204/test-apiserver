@@ -16,4 +16,4 @@ limitations under the License.
 
 // Package versioned provides tools for making sure the objects sent to a
 // webhook are in a version the webhook understands.
-package versioned // import "k8s.io/apiserver/pkg/admission/plugin/webhook/versioned"
+package versioned

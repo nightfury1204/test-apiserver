@@ -1,0 +1,8 @@
+apiVersion: tryapi.nahid.com/v1alpha1
+kind: Player
+metadata:
+  name: player-01
+  labels:
+    sample-label: "true"
+Spec:
+  name: "nahid"

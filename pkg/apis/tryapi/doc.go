@@ -1,10 +1,5 @@
 
+// +k8s:deepcopy-gen=package
 
-
-
-// +k8s:deepcopy-gen=package,register
-// +groupName=tryapi.nahid.try
-
-// Package api is the internal version of the API.
+// +groupName=tryapi.nahid.com
 package tryapi
-
